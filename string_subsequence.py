@@ -106,5 +106,8 @@ def Subsequencecount3(s, words):
 
 print(Subsequencecount3(s, words),'method3')
 
+https://github.com/gutty333/Hard-Programming-Challenges/blob/master/27_WildcardCharacters.cpp
+https://github.com/AnoshaRehan/Coding-Challenges/blob/main/htmlElements.py
+https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/
 
 
